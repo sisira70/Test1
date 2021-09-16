@@ -33,7 +33,7 @@ This script can be executed directly from the command line provided that the nec
  Expected user input string contains three parameters.
  1. From Device
  2. To Device
- 3. Time Taken to travel between the two devices.
+ 3. Time Taken to travel between the two devices (milliseconds)
  
  Sample user Input:
  > A D 100
